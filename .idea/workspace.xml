@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8950ae98-71d4-4885-8330-96768b508e18" name="默认的" comment="" />
+    <list default="true" id="8950ae98-71d4-4885-8330-96768b508e18" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,14 +18,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6198738">
+    <splitter split-orientation="horizontal" split-proportion="0.52602524">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1904">
-                  <caret line="319" column="77" lean-forward="true" selection-start-line="319" selection-start-column="77" selection-end-line="319" selection-end-column="77" />
+                <state relative-caret-position="327">
+                  <caret line="296" column="62" lean-forward="true" selection-start-line="296" selection-start-column="62" selection-end-line="296" selection-end-column="62" />
                   <folding />
                 </state>
               </provider>
@@ -62,6 +66,9 @@
       <find>.row</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,6 +92,7 @@
     <option name="width" value="1598" />
     <option name="height" value="858" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -167,12 +175,12 @@
       <updated>1495790305595</updated>
       <workItem from="1495790459035" duration="5632000" />
       <workItem from="1495804066217" duration="4780000" />
-      <workItem from="1495846999999" duration="5751000" />
+      <workItem from="1495846999999" duration="7938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16163000" />
+    <option name="totallyTimeSpent" value="18350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1598" height="858" extended-state="1" />
@@ -301,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="319" column="77" lean-forward="true" selection-start-line="319" selection-start-column="77" selection-end-line="319" selection-end-column="77" />
+        <state relative-caret-position="327">
+          <caret line="296" column="62" lean-forward="true" selection-start-line="296" selection-start-column="62" selection-end-line="296" selection-end-column="62" />
           <folding />
         </state>
       </provider>
