@@ -573,6 +573,12 @@ h1, h2, h3, h4, h5 {
   height:118px;
   display: block;
 }
+@media screen and (max-width: 661px) {
+  .project-item a{
+    height: 50px;
+    /*display: none;*/
+  }
+}
 .project-item:hover .project-hover {
   opacity: 1;
   visibility: visible;
@@ -650,6 +656,11 @@ h1, h2, h3, h4, h5 {
 }
 .row11{
   height: 400px;
+}
+@media screen and (max-width: 661px) {
+  .row11 {
+    height: 470px;
+  }
 }
 .boxwrap{
   width: 100%;
